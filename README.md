@@ -16,6 +16,12 @@
 - [ATDD를 활용한 REST API Server 개발](https://github.com/msbaek/atdd-example)
 - [Youtube - Clean-Code 강의  및 OOP](https://www.youtube.com/user/codetemplate/videos)
 
+### [holyeye](https://github.com/holyeye)
+- [자바 ORM 표준 JPA 프로그래밍 - 책 예제](https://github.com/holyeye/jpabook)
+- [KSUG 2015 Modern Data Access for Enterprise Java - JPA](https://github.com/holyeye/ksug2015-morden-jpa)
+
+
+
 
 ## ETC
 
