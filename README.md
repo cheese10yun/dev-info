@@ -19,7 +19,7 @@
     - [[holyeye](https://github.com/holyeye)](#holyeyehttpsgithubcomholyeye)
 - [ETC](#etc)
     - [[Github Contributions Chart Generator](https://github-contributions.now.sh/)](#github-contributions-chart-generatorhttpsgithub-contributionsnowsh)
-    - [[HITS!](http://hits.dwyl.io/)(https://github.com/cheese10yun/dev-info/blob/master/images/hit.png?raw=true)](#hitshttphitsdwyliohttpsgithubcomcheese10yundev-infoblobmasterimageshitpngrawtrue)
+    - [[HITS!](http://hits.dwyl.io/)](#hitshttphitsdwylio)
 
 <!-- /TOC -->
 
@@ -61,6 +61,8 @@
 
 * GitHub contributions 히스토리를 이미지화
 
-## [HITS!](http://hits.dwyl.io/)(https://github.com/cheese10yun/dev-info/blob/master/images/hit.png?raw=true)
+## [HITS!](http://hits.dwyl.io/)
+
+![](https://github.com/cheese10yun/dev-info/blob/master/images/hit.png?raw=true)
 
 * Repository 조회수 표시
