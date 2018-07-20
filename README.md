@@ -9,7 +9,7 @@
 - [목차](#목차)
 - [추천 온라인 강의](#추천-온라인-강의)
     - [[객체 지향 프로그래밍 입문](https://www.inflearn.com/course/객체-지향-프로그래밍-입문/)](#객체-지향-프로그래밍-입문httpswwwinflearncomcourse---)
-    - [[ntelliJ를 시작하시는 분들을 위한� IntelliJ 가이드](https://www.inflearn.com/course/intellij-guide/)](#ntellij를-시작하시는-분들을-위한�-intellij-가이드httpswwwinflearncomcourseintellij-guide)
+    - [[ntelliJ를 시작하시는 분들을 위한 IntelliJ 가이드](https://www.inflearn.com/course/intellij-guide/)](#ntellij를-시작하시는-분들을-위한-intellij-가이드httpswwwinflearncomcourseintellij-guide)
     - [[테스트주도개발(TDD)로 만드는 NodeJS API 서버](https://www.inflearn.com/course/테스트주도개발-tdd-nodejs-api/)](#테스트주도개발tdd로-만드는-nodejs-api-서버httpswwwinflearncomcourse-tdd-nodejs-api)
     - [[스프링 프레임워크 입문](https://www.udemy.com/zakmvzfj/)](#스프링-프레임워크-입문httpswwwudemycomzakmvzfj)
 - [Github 계정 및 대표 Repository](#github-계정-및-대표-repository)
@@ -19,7 +19,7 @@
     - [[holyeye](https://github.com/holyeye)](#holyeyehttpsgithubcomholyeye)
 - [ETC](#etc)
     - [[Github Contributions Chart Generator](https://github-contributions.now.sh/)](#github-contributions-chart-generatorhttpsgithub-contributionsnowsh)
-    - [[HITS!](http://hits.dwyl.io/)](#hitshttphitsdwylio)
+    - [[HITS!](http://hits.dwyl.io/)(https://github.com/cheese10yun/dev-info/blob/master/images/hit.png?raw=true)](#hitshttphitsdwyliohttpsgithubcomcheese10yundev-infoblobmasterimageshitpngrawtrue)
 
 <!-- /TOC -->
 
@@ -28,7 +28,7 @@
 
 ## [객체 지향 프로그래밍 입문](https://www.inflearn.com/course/%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9E%85%EB%AC%B8/)
 
-## [ntelliJ를 시작하시는 분들을 위한� IntelliJ 가이드](https://www.inflearn.com/course/intellij-guide/)
+## [ntelliJ를 시작하시는 분들을 위한 IntelliJ 가이드](https://www.inflearn.com/course/intellij-guide/)
 
 ## [테스트주도개발(TDD)로 만드는 NodeJS API 서버](https://www.inflearn.com/course/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%A3%BC%EB%8F%84%EA%B0%9C%EB%B0%9C-tdd-nodejs-api/)
 
@@ -57,8 +57,10 @@
 
 # ETC
 ## [Github Contributions Chart Generator](https://github-contributions.now.sh/)
-![](https://i.imgur.com/Bd2nW2A.png)
+![](https://github.com/cheese10yun/dev-info/blob/master/images/github-contributions.now.png?raw=true)
 
 * GitHub contributions 히스토리를 이미지화
 
-## [HITS!](http://hits.dwyl.io/)
+## [HITS!](http://hits.dwyl.io/)(https://github.com/cheese10yun/dev-info/blob/master/images/hit.png?raw=true)
+
+* Repository 조회수 표시
