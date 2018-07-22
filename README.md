@@ -12,11 +12,16 @@
     - [스프링 프레임워크 입문](#%EC%8A%A4%ED%94%84%EB%A7%81-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%9E%85%EB%AC%B8)
     - [Clean Code, SOLID 강의](#clean-code-solid-%EA%B0%95%EC%9D%98)
     - [Spring 다양한 방송](#spring-%EB%8B%A4%EC%96%91%ED%95%9C-%EB%B0%A9%EC%86%A1)
+    - [[생활코딩] HTTPS와 SSL 인증서](#%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-https%EC%99%80-ssl-%EC%9D%B8%EC%A6%9D%EC%84%9C)
 - [Github 계정 및 대표 Repository](#github-%EA%B3%84%EC%A0%95-%EB%B0%8F-%EB%8C%80%ED%91%9C-repository)
     - [jojoldu](#jojoldu)
     - [keesun](#keesun)
     - [msbaek](#msbaek)
     - [holyeye](#holyeye)
+- [추천도서](#%EC%B6%94%EC%B2%9C%EB%8F%84%EC%84%9C)
+    - [객체지향의 사실과 오해](#%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4)
+    - [클린 코드](#%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C)
+    - [Effective Java](#effective-java)
 - [ETC](#etc)
     - [Github Contributions Chart Generator](#github-contributions-chart-generator)
     - [HITS!](#hits)
@@ -51,9 +56,14 @@
 
 ## Spring 다양한 방송
 * [Youtube](https://www.youtube.com/channel/UCwjaZf1WggZdbczi36bWlBA)
+* [keesun](https://github.com/keesun)님의 개인방송
 * 스프링의 다양한 부분을 다루는 방송
 * **스프링 부트 2.0 레퍼렌스 적극 추천**
 
+## [생활코딩] HTTPS와 SSL 인증서
+* [강의](https://opentutorials.org/course/228/4894)
+* HTTPS에 관한 핵심 설명을 이해하기 편하게 설명
+* 웹 프로그래머라면 반드시 알고있어야하는 기초
 
 # Github 계정 및 대표 Repository
 
@@ -77,6 +87,22 @@
 - [Github](https://github.com/holyeye)
 - [자바 ORM 표준 JPA 프로그래밍 - 책 예제](https://github.com/holyeye/jpabook)
 - [KSUG 2015 Modern Data Access for Enterprise Java - JPA](https://github.com/holyeye/ksug2015-morden-jpa)
+
+# 추천도서
+
+## 객체지향의 사실과 오해
+* [도서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788998139766&orderClick=LEA&Kc=)
+* 객체지향 입문자 및 초심자에게 적극 추천
+* 객체의 역할, 책임, 자율성 등 실제 코드 보다 다양한 예를들어 설명 해줌
+
+## 클린 코드
+* [도서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260959&orderClick=LAH&Kc=) 
+* 말이 필요 없음 필독
+
+## Effective Java
+* [도서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261161&orderClick=LAH&Kc=)
+* 말이 필요 없음 필독
+
 
 
 # ETC
