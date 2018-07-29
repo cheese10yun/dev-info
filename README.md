@@ -13,6 +13,7 @@
     - [Clean Code, SOLID 강의](#clean-code-solid-%EA%B0%95%EC%9D%98)
     - [Spring 다양한 방송](#spring-%EB%8B%A4%EC%96%91%ED%95%9C-%EB%B0%A9%EC%86%A1)
     - [HTTPS와 SSL 인증서](#https%EC%99%80-ssl-%EC%9D%B8%EC%A6%9D%EC%84%9C)
+    - [백기선의 스피링 부트](#%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%9D%98-%EC%8A%A4%ED%94%BC%EB%A7%81-%EB%B6%80%ED%8A%B8)
 - [Github 계정 및 대표 Repository](#github-%EA%B3%84%EC%A0%95-%EB%B0%8F-%EB%8C%80%ED%91%9C-repository)
     - [jojoldu](#jojoldu)
     - [keesun](#keesun)
@@ -22,6 +23,7 @@
     - [객체지향의 사실과 오해](#%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4)
     - [클린 코드](#%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C)
     - [Effective Java](#effective-java)
+    - [실용주의 프로구래머](#%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B5%AC%EB%9E%98%EB%A8%B8)
 - [ETC](#etc)
     - [Github Contributions Chart Generator](#github-contributions-chart-generator)
     - [HITS!](#hits)
@@ -65,6 +67,10 @@
 * HTTPS에 관한 핵심 설명을 이해하기 편하게 설명
 * 웹 프로그래머라면 반드시 알고있어야하는 기초
 
+## 백기선의 스피링 부트
+* [[인프런] [유료] 강의](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/)
+* 스프링 부트의 원리부터 상세하게 설명 강력 추천드립니다.
+
 # Github 계정 및 대표 Repository
 
 ## jojoldu
@@ -102,6 +108,11 @@
 ## Effective Java
 * [도서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261161&orderClick=LAH&Kc=)
 * 말이 필요 없음 필독
+
+## 실용주의 프로구래머
+* [도서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&barcode=9788966261031)
+* 적극 추천, 팩트 폭력 오지게 맞음...
+* 깨진 창문 비유는 정말 많은 것을 느끼게 해줌
 
 
 
