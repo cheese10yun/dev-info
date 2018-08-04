@@ -24,6 +24,7 @@
     - [클린 코드](#%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C)
     - [Effective Java](#effective-java)
     - [실용주의 프로구래머](#%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B5%AC%EB%9E%98%EB%A8%B8)
+    - [자바 ORM 표준 JPA 프로그래밍](#%EC%9E%90%EB%B0%94-orm-%ED%91%9C%EC%A4%80-jpa-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 - [ETC](#etc)
     - [Github Contributions Chart Generator](#github-contributions-chart-generator)
     - [HITS!](#hits)
@@ -114,7 +115,10 @@
 * 적극 추천, 팩트 폭력 오지게 맞음...
 * 깨진 창문 비유는 정말 많은 것을 느끼게 해줌
 
-
+## 자바 ORM 표준 JPA 프로그래밍
+* [도서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960777330&orderClick=LAG&Kc=)
+* **실무에서 JPA를 사용하기 위해서 반드시 정독해야할 책 적극 추천**
+* 영속서 컨텍스트, 영속성 컨텍스트의 생명주기, IDENTITY 전략, 플러시 등 자세한 내용들이 자세하게 나와있음 
 
 # ETC
 ## Github Contributions Chart Generator
