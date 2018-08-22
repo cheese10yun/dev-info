@@ -13,8 +13,8 @@
     - [Clean Code, SOLID 강의](#clean-code-solid-%EA%B0%95%EC%9D%98)
     - [Spring 다양한 방송](#spring-%EB%8B%A4%EC%96%91%ED%95%9C-%EB%B0%A9%EC%86%A1)
     - [HTTPS와 SSL 인증서](#https%EC%99%80-ssl-%EC%9D%B8%EC%A6%9D%EC%84%9C)
-    - [백기선의 스프링 부트](#%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8)
     - [백기선의 스프링 부트 개념과 활용](#%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EA%B0%9C%EB%85%90%EA%B3%BC-%ED%99%9C%EC%9A%A9)
+    - [백기선의 스프링 데이터 JPA](#%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-jpa)
 - [Github 계정 및 대표 Repository](#github-%EA%B3%84%EC%A0%95-%EB%B0%8F-%EB%8C%80%ED%91%9C-repository)
     - [jojoldu](#jojoldu)
     - [keesun](#keesun)
@@ -69,14 +69,17 @@
 * HTTPS에 관한 핵심 설명을 이해하기 편하게 설명
 * 웹 프로그래머라면 반드시 알고있어야하는 기초
 
-## 백기선의 스프링 부트
-* [[인프런] [유료] 강의](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/)
-* 스프링 부트의 원리부터 상세하게 설명 강력 추천드립니다.
 
 ## 백기선의 스프링 부트 개념과 활용
 * [[인프런] [유료] 강의](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/)
 * 전반적으로 스프링 부트 기초적인 개념 설명
 * 스프링 부트 원리 부분 의존성만 추가되더라도 코드가 어떻게 변경돼서 동작하는지 메커니즘 설명
+
+## 백기선의 스프링 데이터 JPA
+* [[인프런] [유료] 강의](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-jpa/)
+* JPA 입문자에게 추천
+
+
 
 # Github 계정 및 대표 Repository
 
