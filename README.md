@@ -110,6 +110,7 @@
 * [도서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788998139766&orderClick=LEA&Kc=)
 * 객체지향 입문자 및 초심자에게 적극 추천
 * 객체의 역할, 책임, 자율성 등 실제 코드 보다 다양한 예를들어 설명 해줌
+* 이상한 나라의 엘리스의 비유로 왜 현실 세계와 소프트웨어 세계가 다른지 설명, 이해하고 나면 너무나도 완벽한 비유라고 생각함.
 
 ## 클린 코드
 * [도서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260959&orderClick=LAH&Kc=) 
