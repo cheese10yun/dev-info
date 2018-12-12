@@ -18,7 +18,7 @@
   - [백기선의 스프링 프레임워크 핵심 기술](#%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EC%88%A0)
   - [백기선의 스프링 기반 REST API 개발](#%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B8%B0%EB%B0%98-rest-api-%EA%B0%9C%EB%B0%9C)
   - [컴퓨터 공학 올인올 패키지](#%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B3%B5%ED%95%99-%EC%98%AC%EC%9D%B8%EC%98%AC-%ED%8C%A8%ED%82%A4%EC%A7%80)
-- [추천도서](#%EC%B6%94%EC%B2%9C%EB%8F%84%EC%84%9C)
+- [추천 도서](#%EC%B6%94%EC%B2%9C-%EB%8F%84%EC%84%9C)
   - [객체지향의 사실과 오해](#%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4)
   - [클린 코드](#%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C)
   - [Effective Java](#effective-java)
@@ -92,8 +92,9 @@
 * [[패스트캠퍼스] [유료] 강의](https://www.fastcampus.co.kr/dev_online_cs/)
 * 컴퓨터 구조 & 논리설계, 시스템 프로그래밍, 운영체제, 자료구조, WEB 에대한 기초 강의
 * 위 항목중 하나라도 듣고 싶다면 결제 해서 듣는 것을 추천
+* 컴퓨터 공학 기초는 정말 중요 실무 경력자라도 반드시 한번 다시 듣는것이 좋음
 
-# 추천도서
+# 추천 도서
 
 ## 객체지향의 사실과 오해
 * [도서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788998139766&orderClick=LEA&Kc=)
