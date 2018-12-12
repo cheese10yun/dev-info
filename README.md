@@ -17,6 +17,7 @@
   - [백기선의 스프링 데이터 JPA](#%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-jpa)
   - [백기선의 스프링 프레임워크 핵심 기술](#%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EC%88%A0)
   - [백기선의 스프링 기반 REST API 개발](#%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B8%B0%EB%B0%98-rest-api-%EA%B0%9C%EB%B0%9C)
+  - [컴퓨터 공학 올인올 패키지](#%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B3%B5%ED%95%99-%EC%98%AC%EC%9D%B8%EC%98%AC-%ED%8C%A8%ED%82%A4%EC%A7%80)
 - [Github 계정 및 대표 Repository](#github-%EA%B3%84%EC%A0%95-%EB%B0%8F-%EB%8C%80%ED%91%9C-repository)
   - [jojoldu](#jojoldu)
   - [keesun](#keesun)
@@ -89,6 +90,11 @@
 * [[인프런] [유료] 강의](https://www.inflearn.com/course/spring_rest-api/)
 * JPA, Web MVC 등을 알고 있다면 추천
 * **Hateoas 기반 Rest API 스터디할 수있음**
+
+## 컴퓨터 공학 올인올 패키지
+* [[패스트캠퍼스] [유료] 강의](https://www.fastcampus.co.kr/dev_online_cs/)
+* 컴퓨터 구조 & 논리설계, 시스템 프로그래밍, 운영체제, 자료구조, WEB 에대한 기초 강의
+* 위 항목중 하나라도 듣고 싶다면 결제 해서 듣는 것을 추천
 
 
 # Github 계정 및 대표 Repository
