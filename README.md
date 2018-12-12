@@ -107,8 +107,9 @@
 * 말이 필요 없음 필독
 
 ## Effective Java
-* [도서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261161&orderClick=LAH&Kc=)
+* [도서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262281&orderClick=LEA&Kc=)
 * 말이 필요 없음 필독
+* 최신 3판이 나왔습니다. 구매하신다면 3판으로 구매하세요
 
 ## 실용주의 프로그래머
 * [도서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&barcode=9788966261031)
