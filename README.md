@@ -18,11 +18,6 @@
   - [백기선의 스프링 프레임워크 핵심 기술](#%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EC%88%A0)
   - [백기선의 스프링 기반 REST API 개발](#%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B8%B0%EB%B0%98-rest-api-%EA%B0%9C%EB%B0%9C)
   - [컴퓨터 공학 올인올 패키지](#%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B3%B5%ED%95%99-%EC%98%AC%EC%9D%B8%EC%98%AC-%ED%8C%A8%ED%82%A4%EC%A7%80)
-- [Github 계정 및 대표 Repository](#github-%EA%B3%84%EC%A0%95-%EB%B0%8F-%EB%8C%80%ED%91%9C-repository)
-  - [jojoldu](#jojoldu)
-  - [keesun](#keesun)
-  - [msbaek](#msbaek)
-  - [holyeye](#holyeye)
 - [추천도서](#%EC%B6%94%EC%B2%9C%EB%8F%84%EC%84%9C)
   - [객체지향의 사실과 오해](#%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4)
   - [클린 코드](#%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C)
@@ -30,9 +25,11 @@
   - [실용주의 프로그래머](#%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8)
   - [자바 ORM 표준 JPA 프로그래밍](#%EC%9E%90%EB%B0%94-orm-%ED%91%9C%EC%A4%80-jpa-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
   - [DDD Start](#ddd-start)
-- [ETC](#etc)
-  - [Github Contributions Chart Generator](#github-contributions-chart-generator)
-  - [HITS!](#hits)
+- [Github 계정 및 대표 Repository](#github-%EA%B3%84%EC%A0%95-%EB%B0%8F-%EB%8C%80%ED%91%9C-repository)
+  - [jojoldu](#jojoldu)
+  - [keesun](#keesun)
+  - [msbaek](#msbaek)
+  - [holyeye](#holyeye)
 
 # 추천 온라인 강의
 
@@ -96,30 +93,6 @@
 * 컴퓨터 구조 & 논리설계, 시스템 프로그래밍, 운영체제, 자료구조, WEB 에대한 기초 강의
 * 위 항목중 하나라도 듣고 싶다면 결제 해서 듣는 것을 추천
 
-
-# Github 계정 및 대표 Repository
-
-## jojoldu
-- [Github](https://github.com/jojoldu)
-- [SpringBoot로 웹서비스 개발하기](https://github.com/jojoldu/springboot-webservice)
-- [blog-code](https://github.com/jojoldu/blog-code)
-
-## keesun
-- [Github](https://github.com/keesun)
-- [amugona Spring-JPA 예제](https://github.com/keesun/amugona)
-- [Youtube 강의](https://www.youtube.com/channel/UCwjaZf1WggZdbczi36bWlBA)
-
-## msbaek
-- [Github](https://github.com/msbaek)
-- [clean-coders-2013](https://github.com/msbaek/clean-coders-2013)
-- [ATDD를 활용한 REST API Server 개발](https://github.com/msbaek/atdd-example)
-- [Youtube - Clean-Code 강의  및 OOP](https://www.youtube.com/user/codetemplate/videos)
-
-## holyeye
-- [Github](https://github.com/holyeye)
-- [자바 ORM 표준 JPA 프로그래밍 - 책 예제](https://github.com/holyeye/jpabook)
-- [KSUG 2015 Modern Data Access for Enterprise Java - JPA](https://github.com/holyeye/ksug2015-morden-jpa)
-
 # 추천도서
 
 ## 객체지향의 사실과 오해
@@ -152,11 +125,25 @@
 * Rich Domain 이라는 것이 무엇인지 왜 중요한지, 객체지향에 대해서 다시 한번 공부 해볼수 있는 좋은 책
 
 
-# ETC
-## Github Contributions Chart Generator
-![Github Contributions Chart Generator](https://github.com/cheese10yun/dev-info/blob/master/images/github-contributions.now.png?raw=true)
-* [GitHub contributions 히스토리를 이미지화](https://github-contributions.now.sh/)
+# Github 계정 및 대표 Repository
 
-## HITS!
-![HITS!](https://github.com/cheese10yun/dev-info/blob/master/images/hit.png?raw=true)
-* [Repository 조회수 표시](http://hits.dwyl.io/)
+## jojoldu
+- [Github](https://github.com/jojoldu)
+- [SpringBoot로 웹서비스 개발하기](https://github.com/jojoldu/springboot-webservice)
+- [blog-code](https://github.com/jojoldu/blog-code)
+
+## keesun
+- [Github](https://github.com/keesun)
+- [amugona Spring-JPA 예제](https://github.com/keesun/amugona)
+- [Youtube 강의](https://www.youtube.com/channel/UCwjaZf1WggZdbczi36bWlBA)
+
+## msbaek
+- [Github](https://github.com/msbaek)
+- [clean-coders-2013](https://github.com/msbaek/clean-coders-2013)
+- [ATDD를 활용한 REST API Server 개발](https://github.com/msbaek/atdd-example)
+- [Youtube - Clean-Code 강의  및 OOP](https://www.youtube.com/user/codetemplate/videos)
+
+## holyeye
+- [Github](https://github.com/holyeye)
+- [자바 ORM 표준 JPA 프로그래밍 - 책 예제](https://github.com/holyeye/jpabook)
+- [KSUG 2015 Modern Data Access for Enterprise Java - JPA](https://github.com/holyeye/ksug2015-morden-jpa)
