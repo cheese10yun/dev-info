@@ -19,6 +19,7 @@
   - [백기선의 스프링 기반 REST API 개발](#%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B8%B0%EB%B0%98-rest-api-%EA%B0%9C%EB%B0%9C)
   - [컴퓨터 공학 올인올 패키지](#%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B3%B5%ED%95%99-%EC%98%AC%EC%9D%B8%EC%98%AC-%ED%8C%A8%ED%82%A4%EC%A7%80)
   - [Learn Spring Security: The Master Class](#learn-spring-security-the-master-class)
+  - [JPA 프로그래밍 기본기 다지기](#jpa-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EB%B3%B8%EA%B8%B0-%EB%8B%A4%EC%A7%80%EA%B8%B0)
 - [추천 도서](#%EC%B6%94%EC%B2%9C-%EB%8F%84%EC%84%9C)
   - [객체지향의 사실과 오해](#%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4)
   - [클린 코드](#%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C)
@@ -100,6 +101,11 @@
 * 영어 강의 이긴 하지만 PDF 자료 및 영상에 대한 영어 자막을 재공해 주어서 듣기에는 크게 지장이 없습니다.(저는 가끔 영어 자막을 한글 자막으로 크롬 번역기로 들었는데 크게 이해하는데 어렵지 않았습니다.)
 * 우선 스프링 Security에 대한 자료들 중에서 체계적이고 최신화되 있는 강의가 있지 않아 스프링 Security공부를 하고싶은 분에게는 추천드립니다. 만약 국내에 Security 관련 다른 강의가 있다면 그것을 듣는 것도 추천드립니다. 가격에 비해서 강의 퀄리티는 그렇게 높지 않습니다.
 * 스프링 Security 기초부터 JWT, OAuth2까지 전반적으로 다룹니다. 기술의 깊이는 그렇게 깊지 않습니다.
+
+## JPA 프로그래밍 기본기 다지기
+* [[youtube][무료]강의](https://www.fastcampus.co.kr/dev_online_cs/)
+* 1강 기초 부터 8강 까지 여러 영상이 있음
+* 1장에서 말해주는 객체지향과 관계형 데이터베이스의 불일치의 해결 부분이 당연하지만 가장 핵심적인 내용 JPA 사용한다면 꼭 보는것을 추천
 
 # 추천 도서
 
