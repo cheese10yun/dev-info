@@ -97,13 +97,13 @@
 * 컴퓨터 공학 기초는 정말 중요 실무 경력자라도 반드시 한번 다시 듣는것이 좋음
 
 ## Learn Spring Security: The Master Class
-* [[Baeldung][유료] 강의](https://courses.baeldung.com/p/learn-spring-security-the-master-class)
+* [[Baeldung] [유료] 강의](https://courses.baeldung.com/p/learn-spring-security-the-master-class)
 * 영어 강의 이긴 하지만 PDF 자료 및 영상에 대한 영어 자막을 재공해 주어서 듣기에는 크게 지장이 없습니다.(저는 가끔 영어 자막을 한글 자막으로 크롬 번역기로 들었는데 크게 이해하는데 어렵지 않았습니다.)
 * 우선 스프링 Security에 대한 자료들 중에서 체계적이고 최신화되 있는 강의가 있지 않아 스프링 Security공부를 하고싶은 분에게는 추천드립니다. 만약 국내에 Security 관련 다른 강의가 있다면 그것을 듣는 것도 추천드립니다. 가격에 비해서 강의 퀄리티는 그렇게 높지 않습니다.
 * 스프링 Security 기초부터 JWT, OAuth2까지 전반적으로 다룹니다. 기술의 깊이는 그렇게 깊지 않습니다.
 
 ## JPA 프로그래밍 기본기 다지기
-* [[youtube][무료]강의](https://www.fastcampus.co.kr/dev_online_cs/)
+* [[youtube] [무료] 강의](https://www.fastcampus.co.kr/dev_online_cs/)
 * 1강 기초 부터 8강 까지 여러 영상이 있음
 * 1장에서 말해주는 객체지향과 관계형 데이터베이스의 불일치의 해결 부분이 당연하지만 가장 핵심적인 내용 JPA 사용한다면 꼭 보는것을 추천
 
