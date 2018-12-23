@@ -103,7 +103,7 @@
 * 스프링 Security 기초부터 JWT, OAuth2까지 전반적으로 다룹니다. 기술의 깊이는 그렇게 깊지 않습니다.
 
 ## JPA 프로그래밍 기본기 다지기
-* [[youtube] [무료] 강의](https://www.fastcampus.co.kr/dev_online_cs/)
+* [[Youtube] [무료] 강의](https://www.fastcampus.co.kr/dev_online_cs/)
 * 1강 기초 부터 8강 까지 여러 영상이 있음
 * 1장에서 말해주는 객체지향과 관계형 데이터베이스의 불일치의 해결 부분이 당연하지만 가장 핵심적인 내용 JPA 사용한다면 꼭 보는것을 추천
 
