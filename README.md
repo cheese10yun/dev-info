@@ -20,9 +20,10 @@
   - [컴퓨터 공학 올인올 패키지](#%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B3%B5%ED%95%99-%EC%98%AC%EC%9D%B8%EC%98%AC-%ED%8C%A8%ED%82%A4%EC%A7%80)
   - [Learn Spring Security: The Master Class](#learn-spring-security-the-master-class)
   - [JPA 프로그래밍 기본기 다지기](#jpa-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EB%B3%B8%EA%B8%B0-%EB%8B%A4%EC%A7%80%EA%B8%B0)
+  - [클린 코드](#%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C)
 - [추천 도서](#%EC%B6%94%EC%B2%9C-%EB%8F%84%EC%84%9C)
   - [객체지향의 사실과 오해](#%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4)
-  - [클린 코드](#%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C)
+  - [클린 코드](#%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-1)
   - [Effective Java](#effective-java)
   - [실용주의 프로그래머](#%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8)
   - [자바 ORM 표준 JPA 프로그래밍](#%EC%9E%90%EB%B0%94-orm-%ED%91%9C%EC%A4%80-jpa-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
@@ -106,6 +107,10 @@
 * [[Youtube] [무료] 강의](https://www.youtube.com/watch?v=WfrSN9Z7MiA)
 * 1강 기초 부터 8강 까지 여러 영상이 있음
 * 1장에서 말해주는 객체지향과 관계형 데이터베이스의 불일치의 해결 부분이 당연하지만 가장 핵심적인 내용 JPA 사용한다면 꼭 보는것을 추천
+
+## 클린 코드
+* [[Youtube] [무료] 강의](https://www.youtube.com/watch?v=ybRg282RECs)
+* 도서 클린 코드에 대한 풀이 강의
 
 # 추천 도서
 
