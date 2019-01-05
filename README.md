@@ -105,6 +105,8 @@
 
 ## JPA 프로그래밍 기본기 다지기
 * [[Youtube] [무료] 강의](https://www.youtube.com/watch?v=WfrSN9Z7MiA)
+* [자바 ORM 표준 JPA 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960777330&orderClick=LAG&Kc=) 저자 김영한님 강의 (도서도 구입하시는 것이 좋습니다. 정말 좋은 책)
+* [발표자료 PDF](https://drive.google.com/file/d/1FlbcE63MXEX2NDG1PEKUrmmuEYlZ6hcJ/view?fbclid=IwAR1LsdqgprF9ZFzg7Gzax-tFRhjwu8NhuTUPC4dOZ7xdH9gIFuSzitFUyJQ)
 * 1강 기초 부터 8강 까지 여러 영상이 있음
 * 1장에서 말해주는 객체지향과 관계형 데이터베이스의 불일치의 해결 부분이 당연하지만 가장 핵심적인 내용 JPA 사용한다면 꼭 보는것을 추천
 
