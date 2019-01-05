@@ -29,6 +29,7 @@
   - [자바 ORM 표준 JPA 프로그래밍](#%EC%9E%90%EB%B0%94-orm-%ED%91%9C%EC%A4%80-jpa-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
   - [DDD Start](#ddd-start)
   - [이것이 자바다](#%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%9E%90%EB%B0%94%EB%8B%A4)
+  - [처음 배우는 스프링 부트 2](#%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-2)
 - [Github 계정 및 대표 Repository](#github-%EA%B3%84%EC%A0%95-%EB%B0%8F-%EB%8C%80%ED%91%9C-repository)
   - [jojoldu](#jojoldu)
   - [keesun](#keesun)
@@ -152,6 +153,12 @@
 * 자바 입문 서적 및 자바 주니어 개발자분들에게 많은 도움이 됨
 * 동영상 강의도 1년 제공
 * 이 책의 최대의 장점은 입문 서적임에도 2~3년차 주니어 개발자 분들까지도 도움될정도의 깊이있게 다루고 있음
+
+## 처음 배우는 스프링 부트 2 
+* [도서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162241264&orderClick=LAH&Kc=)
+* **스프링 배치관련 학습이 하시는 분에게 추천**
+* 스프링 배치관련된 부분이 자세히 설명되있음. 이 책은 배치쪽만 봐도 충분한가치가 있음
+* Spring OAuth2 Social 부분도 자세히 설명되어 있음
 
 
 # Github 계정 및 대표 Repository
