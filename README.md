@@ -28,6 +28,7 @@
   - [실용주의 프로그래머](#%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8)
   - [자바 ORM 표준 JPA 프로그래밍](#%EC%9E%90%EB%B0%94-orm-%ED%91%9C%EC%A4%80-jpa-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
   - [DDD Start](#ddd-start)
+  - [이것이 자바다](#%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%9E%90%EB%B0%94%EB%8B%A4)
 - [Github 계정 및 대표 Repository](#github-%EA%B3%84%EC%A0%95-%EB%B0%8F-%EB%8C%80%ED%91%9C-repository)
   - [jojoldu](#jojoldu)
   - [keesun](#keesun)
@@ -145,6 +146,12 @@
 * [도서](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788993827446&orderClick=JAj)
 * 도메인 주도 개발 처음 공부 할때 정말 추천
 * Rich Domain 이라는 것이 무엇인지 왜 중요한지, 객체지향에 대해서 다시 한번 공부 해볼수 있는 좋은 책
+
+## 이것이 자바다
+* [도서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968481475&orderClick=LAG&Kc=)
+* 자바 입문 서적 및 자바 주니어 개발자분들에게 많은 도움이 됨
+* 동영상 강의도 1년 제공
+* 이 책의 최대의 장점은 입문 서적임에도 2~3년차 주니어 개발자 분들까지도 도움될정도의 깊이있게 다루고 있음
 
 
 # Github 계정 및 대표 Repository
