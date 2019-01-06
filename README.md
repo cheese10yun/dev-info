@@ -31,6 +31,7 @@
   - [이것이 자바다](#%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%9E%90%EB%B0%94%EB%8B%A4)
   - [처음 배우는 스프링 부트 2](#%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-2)
   - [OAuth 2.0 쿡북](#oauth-20-%EC%BF%A1%EB%B6%81)
+  - [Java8 in Action](#java8-in-action)
 - [Github 계정 및 대표 Repository](#github-%EA%B3%84%EC%A0%95-%EB%B0%8F-%EB%8C%80%ED%91%9C-repository)
   - [jojoldu](#jojoldu)
   - [keesun](#keesun)
@@ -166,6 +167,11 @@
 * Spring OAuth2부분만 설명 하는 책
 * Sprong OAuth2 관련 자료는 많지만 이렇게 체계적으로 정리한 자료는 없기 때문에 Sprong OAuth2 학습 하시는 분에게 추천
 * 책에 퀄리티가 엄청 좋다고 할 수는 없지만 국내에 Sprong OAuth2를 다루는 책 자체가 거의 없기 때문에....
+
+## Java8 in Action
+* [도서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968481796&orderClick=LAH&Kc=)
+* 자바8에 대한 변화를 잘 설명해준책
+* 자바 람다 학습을 하기 가장 좋은 책이라고 생각합니다.
 
 
 # Github 계정 및 대표 Repository
