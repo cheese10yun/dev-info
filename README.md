@@ -22,6 +22,7 @@
   - [[토크ON세미나] JPA 프로그래밍 기본기 다지기](#%ED%86%A0%ED%81%ACon%EC%84%B8%EB%AF%B8%EB%82%98-jpa-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EB%B3%B8%EA%B8%B0-%EB%8B%A4%EC%A7%80%EA%B8%B0)
   - [[토크ON세미나] Spring Cloud를 활용한 MSA 기초](#%ED%86%A0%ED%81%ACon%EC%84%B8%EB%AF%B8%EB%82%98-spring-cloud%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-msa-%EA%B8%B0%EC%B4%88)
   - [클린 코드](#%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C)
+  - [OKKYCON: 2018 The Real TDD - TDD 제대로 알기](#okkycon-2018-the-real-tdd---tdd-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%95%8C%EA%B8%B0)
 - [추천 도서](#%EC%B6%94%EC%B2%9C-%EB%8F%84%EC%84%9C)
   - [객체지향의 사실과 오해](#%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4)
   - [클린 코드](#%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-1)
@@ -123,6 +124,11 @@
 ## 클린 코드
 * [[Youtube] [무료] 강의](https://www.youtube.com/watch?v=ybRg282RECs)
 * 도서 클린 코드에 대한 풀이 강의
+
+## OKKYCON: 2018  The Real TDD - TDD 제대로 알기
+* [[OKKY] [무료] 커펀런스 영상](https://okky.kr/article/538114)
+* OKKYCON: 2018  The Real TDD - TDD 제대로 알기 세션별 영상 링크 및 간단 정리
+* TDD를 처음 접하시는 분들은 **박재성님 - 의식적인 연습으로 TDD, 리팩토링 연습하기** 를 추천드립니다.
 
 # 추천 도서
 
