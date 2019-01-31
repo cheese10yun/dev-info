@@ -17,6 +17,7 @@
   - [백기선의 스프링 데이터 JPA](#%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-jpa)
   - [백기선의 스프링 프레임워크 핵심 기술](#%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EC%88%A0)
   - [백기선의 스프링 기반 REST API 개발](#%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B8%B0%EB%B0%98-rest-api-%EA%B0%9C%EB%B0%9C)
+  - [백기선의 스프링 웹 MVC](#%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9B%B9-mvc)
   - [컴퓨터 공학 올인올 패키지](#%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B3%B5%ED%95%99-%EC%98%AC%EC%9D%B8%EC%98%AC-%ED%8C%A8%ED%82%A4%EC%A7%80)
   - [Learn Spring Security: The Master Class](#learn-spring-security-the-master-class)
   - [[토크ON세미나] JPA 프로그래밍 기본기 다지기](#%ED%86%A0%ED%81%ACon%EC%84%B8%EB%AF%B8%EB%82%98-jpa-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EB%B3%B8%EA%B8%B0-%EB%8B%A4%EC%A7%80%EA%B8%B0)
@@ -96,6 +97,10 @@
 * [[인프런] [유료] 강의](https://www.inflearn.com/course/spring_rest-api/)
 * JPA, Web MVC 등을 알고 있다면 추천
 * **Hateoas 기반 Rest API 스터디할 수있음**
+
+## 백기선의 스프링 웹 MVC
+* [[인프런] [유료] 강의](https://www.inflearn.com/course/%EC%9B%B9-mvc/)
+* 믿고 듣는 기선님 강의...ㅇ
 
 ## 컴퓨터 공학 올인올 패키지
 * [[패스트캠퍼스] [유료] 강의](https://www.fastcampus.co.kr/dev_online_cs/)
