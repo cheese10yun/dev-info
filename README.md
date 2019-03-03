@@ -35,6 +35,7 @@
   - [처음 배우는 스프링 부트 2](#%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-2)
   - [OAuth 2.0 쿡북](#oauth-20-%EC%BF%A1%EB%B6%81)
   - [Java8 in Action](#java8-in-action)
+  - [스프링 5.0 마스터](#%EC%8A%A4%ED%94%84%EB%A7%81-50-%EB%A7%88%EC%8A%A4%ED%84%B0)
 - [Github 계정 및 대표 Repository](#github-%EA%B3%84%EC%A0%95-%EB%B0%8F-%EB%8C%80%ED%91%9C-repository)
   - [jojoldu](#jojoldu)
   - [keesun](#keesun)
@@ -189,6 +190,12 @@
 * [도서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968481796&orderClick=LAH&Kc=)
 * 자바8에 대한 변화를 잘 설명해준책
 * 자바 람다 학습을 하기 가장 좋은 책이라고 생각합니다.
+
+## 스프링 5.0 마스터
+* [도서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161751825&orderClick=LAG&Kc=)
+* 스프링 전체적인 내용을 다루면서 내용을 깊이있게 다룸
+* 의존성 주입에 대한 근본적인 이유, 스프링 핵심 철학, 스프링의 내부매커니즘, 스프링 활용 팁, 스프링 테스트 전략에 대해서 짧고 굵게 다룸
+* **이론과 실무 모두를 만족시키는 최근 스프링 관련 최고의 책이라고 생각함**
 
 
 # Github 계정 및 대표 Repository
