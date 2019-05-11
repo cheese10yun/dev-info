@@ -37,6 +37,7 @@
   - [OAuth 2.0 쿡북](#oauth-20-%EC%BF%A1%EB%B6%81)
   - [Java8 in Action](#java8-in-action)
   - [스프링 5.0 마스터](#%EC%8A%A4%ED%94%84%EB%A7%81-50-%EB%A7%88%EC%8A%A4%ED%84%B0)
+  - [피플웨어](#%ED%94%BC%ED%94%8C%EC%9B%A8%EC%96%B4)
 - [Github 계정 및 대표 Repository](#github-%EA%B3%84%EC%A0%95-%EB%B0%8F-%EB%8C%80%ED%91%9C-repository)
   - [jojoldu](#jojoldu)
   - [keesun](#keesun)
@@ -202,6 +203,10 @@
 * 의존성 주입에 대한 근본적인 이유, 스프링 핵심 철학, 스프링의 내부매커니즘, 스프링 활용 팁, 스프링 테스트 전략에 대해서 짧고 굵게 다룸
 * **이론과 실무 모두를 만족시키는 최근 스프링 관련 최고의 책이라고 생각함**
 
+## 피플웨어
+* [도서](http://www.yes24.com/Product/goods/13657193)
+* 성공 적인 프로젝트를 이끄는 다양한 방법과 실졔 액션 플랜을 재시
+* 사무실 환경, 생산성을 높이는 팀 빌딩 방법, 생산성에 영향을 미치는 것들을 정리
 
 # Github 계정 및 대표 Repository
 
