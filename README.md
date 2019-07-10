@@ -39,6 +39,7 @@
   - [스프링 5.0 마스터](#%EC%8A%A4%ED%94%84%EB%A7%81-50-%EB%A7%88%EC%8A%A4%ED%84%B0)
   - [피플웨어](#%ED%94%BC%ED%94%8C%EC%9B%A8%EC%96%B4)
   - [함께자라기 - 애자일](#%ED%95%A8%EA%BB%98%EC%9E%90%EB%9D%BC%EA%B8%B0---%EC%95%A0%EC%9E%90%EC%9D%BC)
+  - [MySQL 5.7 완벽 분석](#MySQL-57-%EC%99%84%EB%B2%BD-%EB%B6%84%EC%84%9D)
 - [Github 계정 및 대표 Repository](#Github-%EA%B3%84%EC%A0%95-%EB%B0%8F-%EB%8C%80%ED%91%9C-Repository)
   - [jojoldu](#jojoldu)
   - [keesun](#keesun)
@@ -213,6 +214,10 @@
 ## 함께자라기 - 애자일
 * [도서](http://www.yes24.com/Product/Goods/67350256?scode=032&OzSrank=1)
 * 애자일에 대한 내용보다는 개인, 팀, 팀원으로써 좋은 커뉴니케이션, 피드백, 성장(개인, 팀)등에 대한 많은 이야기를 함
+
+## MySQL 5.7 완벽 분석
+* MySQL에 대한 방대한 지식을 깊게 다룬다. 5.7 버전에만 집중하지 않고 이 기능이 왜 추가되었는지 기존 기능에서 어떤 문제가 있었는지 자세하게 알려준다.
+* 레플리케이션이 실데 어떻게 동작하는지, 옵티마이저, EXPLAIN를 특정 하고 파악할 수 있는 방법, JSON 데이터 타입에 대한 사용법 등 다양한 방법들이 있어 추천
 
 # Github 계정 및 대표 Repository
 
