@@ -179,7 +179,7 @@
 ## 이것이 자바다
 * [도서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968481475&orderClick=LAG&Kc=)
 * 자바 입문 서적 및 자바 주니어 개발자분들에게 많은 도움이 됨
-* 동영상 강의도 1년 제공
+* 동영상 강의도 1년 무료 제공
 * 이 책의 최대의 장점은 입문 서적임에도 2~3년차 주니어 개발자 분들까지도 도움될정도의 깊이있게 다루고 있음
 
 ## 처음 배우는 스프링 부트 2 
