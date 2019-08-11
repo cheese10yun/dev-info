@@ -27,6 +27,7 @@
   - [OKKYCON: 2018 The Real TDD - TDD 제대로 알기](#okkycon-2018-the-real-tdd---tdd-%ec%a0%9c%eb%8c%80%eb%a1%9c-%ec%95%8c%ea%b8%b0)
   - [리눅스 커맨드라인 툴](#%eb%a6%ac%eb%88%85%ec%8a%a4-%ec%bb%a4%eb%a7%a8%eb%93%9c%eb%9d%bc%ec%9d%b8-%ed%88%b4)
   - [우아한테크세미나 : 우아한 객체지향](#%ec%9a%b0%ec%95%84%ed%95%9c%ed%85%8c%ed%81%ac%ec%84%b8%eb%af%b8%eb%82%98--%ec%9a%b0%ec%95%84%ed%95%9c-%ea%b0%9d%ec%b2%b4%ec%a7%80%ed%96%a5)
+  - [[토크ON세미나] 쿠버네티스 살펴보기](#%ed%86%a0%ed%81%acon%ec%84%b8%eb%af%b8%eb%82%98-%ec%bf%a0%eb%b2%84%eb%84%a4%ed%8b%b0%ec%8a%a4-%ec%82%b4%ed%8e%b4%eb%b3%b4%ea%b8%b0)
 - [추천 도서](#%ec%b6%94%ec%b2%9c-%eb%8f%84%ec%84%9c)
   - [객체지향의 사실과 오해](#%ea%b0%9d%ec%b2%b4%ec%a7%80%ed%96%a5%ec%9d%98-%ec%82%ac%ec%8b%a4%ea%b3%bc-%ec%98%a4%ed%95%b4)
   - [클린 코드](#%ed%81%b4%eb%a6%b0-%ec%bd%94%eb%93%9c-1)
@@ -155,6 +156,10 @@
 * 배민 주문 도메인 관련해서 객체지향적인 설계를 어떻게 해야 좋은지를 설명
 * 연관관계, 의존관계, 순한 패키지 구조 등 예쩨와 설명이 적절함
 * 뜬구름 잡는 이야기가 아닌 실무에서 정말 많이 고민 되는 부분들이라서 더 도움이 만이됨
+
+## [토크ON세미나] 쿠버네티스 살펴보기
+* [[Youtube] [무료] 강의](https://www.youtube.com/watch?v=WxzWXqTNdlw&list=PL9mhQYIlKEhdTu31zyb_QelQMaqFGgASA)
+* 쿠버네티스 영상 자료
 
 
 # 추천 도서
