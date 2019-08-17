@@ -43,6 +43,7 @@
   - [피플웨어](#%ed%94%bc%ed%94%8c%ec%9b%a8%ec%96%b4)
   - [함께자라기 - 애자일](#%ed%95%a8%ea%bb%98%ec%9e%90%eb%9d%bc%ea%b8%b0---%ec%95%a0%ec%9e%90%ec%9d%bc)
   - [MySQL 5.7 완벽 분석](#mysql-57-%ec%99%84%eb%b2%bd-%eb%b6%84%ec%84%9d)
+  - [오브젝트](#%ec%98%a4%eb%b8%8c%ec%a0%9d%ed%8a%b8)
 - [Github 계정 및 대표 Repository](#github-%ea%b3%84%ec%a0%95-%eb%b0%8f-%eb%8c%80%ed%91%9c-repository)
   - [jojoldu](#jojoldu)
   - [keesun](#keesun)
@@ -236,6 +237,9 @@
 ## MySQL 5.7 완벽 분석
 * MySQL에 대한 방대한 지식을 깊게 다룬다. 5.7 버전에만 집중하지 않고 이 기능이 왜 추가되었는지 기존 기능에서 어떤 문제가 있었는지 자세하게 알려준다.
 * 레플리케이션이 실데 어떻게 동작하는지, 옵티마이저, EXPLAIN를 특정 하고 파악할 수 있는 방법, JSON 데이터 타입에 대한 사용법 등 다양한 방법들이 있어 추천
+
+## 오브젝트
+* [도서](http://www.yes24.com/Product/Goods/74219491)
 
 # Github 계정 및 대표 Repository
 
