@@ -109,7 +109,7 @@
 
 ## 백기선의 스프링 웹 MVC
 * [[인프런] [유료] 강의](https://www.inflearn.com/course/%EC%9B%B9-mvc/)
-* 믿고 듣는 기선님 강의...ㅇ
+* 믿고 듣는 기선님 강의
 
 ## 컴퓨터 공학 올인올 패키지
 * [[패스트캠퍼스] [유료] 강의](https://www.fastcampus.co.kr/dev_online_cs/)
