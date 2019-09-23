@@ -44,6 +44,7 @@
   - [함께자라기 - 애자일](#%ed%95%a8%ea%bb%98%ec%9e%90%eb%9d%bc%ea%b8%b0---%ec%95%a0%ec%9e%90%ec%9d%bc)
   - [MySQL 5.7 완벽 분석](#mysql-57-%ec%99%84%eb%b2%bd-%eb%b6%84%ec%84%9d)
   - [오브젝트](#%ec%98%a4%eb%b8%8c%ec%a0%9d%ed%8a%b8)
+  - [Kotlin in Action](#kotlin-in-action)
 - [Github 계정 및 대표 Repository](#github-%ea%b3%84%ec%a0%95-%eb%b0%8f-%eb%8c%80%ed%91%9c-repository)
   - [jojoldu](#jojoldu)
   - [keesun](#keesun)
@@ -240,6 +241,12 @@
 
 ## 오브젝트
 * [도서](http://www.yes24.com/Product/Goods/74219491)
+
+## Kotlin in Action
+* [도서](http://www.yes24.com/Product/Goods/55148593)
+* 코틀린 입문자에게 추천
+* JVM에서의 동작 및 해석까지 알려주는 점이 좋음
+* Java와 상호 운영하는 방법에 대해서도 많은 팁이 들어 있음
 
 # Github 계정 및 대표 Repository
 
