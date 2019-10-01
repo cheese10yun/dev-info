@@ -45,6 +45,7 @@
   - [MySQL 5.7 완벽 분석](#mysql-57-%ec%99%84%eb%b2%bd-%eb%b6%84%ec%84%9d)
   - [오브젝트](#%ec%98%a4%eb%b8%8c%ec%a0%9d%ed%8a%b8)
   - [Kotlin in Action](#kotlin-in-action)
+  - [운영 체제와 정보 기술의 원리](#%ec%9a%b4%ec%98%81-%ec%b2%b4%ec%a0%9c%ec%99%80-%ec%a0%95%eb%b3%b4-%ea%b8%b0%ec%88%a0%ec%9d%98-%ec%9b%90%eb%a6%ac)
 - [Github 계정 및 대표 Repository](#github-%ea%b3%84%ec%a0%95-%eb%b0%8f-%eb%8c%80%ed%91%9c-repository)
   - [jojoldu](#jojoldu)
   - [keesun](#keesun)
@@ -244,10 +245,16 @@
 * [도서](http://www.yes24.com/Product/Goods/74219491)
 
 ## Kotlin in Action
-* [도서](http://www.yes24.com/Product/Goods/55148593)
+* [도서](http://www.yes24.com/Product/Goods/55148593)
 * 코틀린 입문자에게 추천
 * JVM에서의 동작 및 해석까지 알려주는 점이 좋음
 * Java와 상호 운영하는 방법에 대해서도 많은 팁이 들어 있음
+
+## 운영 체제와 정보 기술의 원리
+* [도서](http://www.yes24.com/Product/Goods/2824944)
+* 운영체제 기초 이론 설명이 잘되어 있음
+* 컴퓨터 시트템 동작 원리, 인터셉터 원리, 프로세스 관리 등 기초적인 운영체지 지식들을 간단하게 알려줌
+* 깊은 내용은 아니지만 **개발자들이 알아야하는 최소한의 내용들이 있어 저극 추천!!**
 
 # Github 계정 및 대표 Repository
 
