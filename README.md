@@ -48,6 +48,7 @@
   - [Kotlin in Action](#kotlin-in-action)
   - [운영 체제와 정보 기술의 원리](#%ec%9a%b4%ec%98%81-%ec%b2%b4%ec%a0%9c%ec%99%80-%ec%a0%95%eb%b3%b4-%ea%b8%b0%ec%88%a0%ec%9d%98-%ec%9b%90%eb%a6%ac)
   - [클린 코더](#%ed%81%b4%eb%a6%b0-%ec%bd%94%eb%8d%94)
+  - [스프링 마이크로서비스 코딩 공작소](#%ec%8a%a4%ed%94%84%eb%a7%81-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%bd%94%eb%94%a9-%ea%b3%b5%ec%9e%91%ec%86%8c)
 - [Github 계정 및 대표 Repository](#github-%ea%b3%84%ec%a0%95-%eb%b0%8f-%eb%8c%80%ed%91%9c-repository)
   - [jojoldu](#jojoldu)
   - [keesun](#keesun)
@@ -269,6 +270,12 @@
 * [도서](http://www.acornpub.co.kr/book/clean-coder)
 * **프로 개발자가 가져야할 마인드**를 잘 설명해주고 있음
 * 타인과 약속을 잡는 방법등 너무나도 좋은 내용이 많이 있음 필독 도서 중 하나
+
+
+## 스프링 마이크로서비스 코딩 공작소
+* [도서](http://www.yes24.com/Product/Goods/67473377)
+* Spring Boot 2.0 버전의 Spring Cloud 예제 기반 (시중에 책들은 Spring Boot 1 버전대가 많아 다소 차이가 있음)
+* 전체적인 CI & CD 까지 넓게 다루고 있음
 
 # Github 계정 및 대표 Repository
 
