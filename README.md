@@ -22,13 +22,13 @@
   - [Learn Spring Security: The Master Class](#learn-spring-security-the-master-class)
   - [[토크ON세미나] JPA 프로그래밍 기본기 다지기](#%ed%86%a0%ed%81%acon%ec%84%b8%eb%af%b8%eb%82%98-jpa-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d-%ea%b8%b0%eb%b3%b8%ea%b8%b0-%eb%8b%a4%ec%a7%80%ea%b8%b0)
   - [[토크ON세미나] Spring Cloud를 활용한 MSA 기초](#%ed%86%a0%ed%81%acon%ec%84%b8%eb%af%b8%eb%82%98-spring-cloud%eb%a5%bc-%ed%99%9c%ec%9a%a9%ed%95%9c-msa-%ea%b8%b0%ec%b4%88)
+  - [[토크ON세미나] 쿠버네티스 살펴보기](#%ed%86%a0%ed%81%acon%ec%84%b8%eb%af%b8%eb%82%98-%ec%bf%a0%eb%b2%84%eb%84%a4%ed%8b%b0%ec%8a%a4-%ec%82%b4%ed%8e%b4%eb%b3%b4%ea%b8%b0)
   - [스프링캠프 2018](#%ec%8a%a4%ed%94%84%eb%a7%81%ec%ba%a0%ed%94%84-2018)
   - [클린 코드](#%ed%81%b4%eb%a6%b0-%ec%bd%94%eb%93%9c)
   - [OKKYCON: 2018 The Real TDD - TDD 제대로 알기](#okkycon-2018-the-real-tdd---tdd-%ec%a0%9c%eb%8c%80%eb%a1%9c-%ec%95%8c%ea%b8%b0)
   - [리눅스 커맨드라인 툴](#%eb%a6%ac%eb%88%85%ec%8a%a4-%ec%bb%a4%eb%a7%a8%eb%93%9c%eb%9d%bc%ec%9d%b8-%ed%88%b4)
-  - [우아한테크세미나 : 우아한 객체지향](#%ec%9a%b0%ec%95%84%ed%95%9c%ed%85%8c%ed%81%ac%ec%84%b8%eb%af%b8%eb%82%98--%ec%9a%b0%ec%95%84%ed%95%9c-%ea%b0%9d%ec%b2%b4%ec%a7%80%ed%96%a5)
-  - [[우아한테크세미나] :우아한멀티모듈](#%ec%9a%b0%ec%95%84%ed%95%9c%ed%85%8c%ed%81%ac%ec%84%b8%eb%af%b8%eb%82%98-%ec%9a%b0%ec%95%84%ed%95%9c%eb%a9%80%ed%8b%b0%eb%aa%a8%eb%93%88)
-  - [[토크ON세미나] 쿠버네티스 살펴보기](#%ed%86%a0%ed%81%acon%ec%84%b8%eb%af%b8%eb%82%98-%ec%bf%a0%eb%b2%84%eb%84%a4%ed%8b%b0%ec%8a%a4-%ec%82%b4%ed%8e%b4%eb%b3%b4%ea%b8%b0)
+  - [[우아한테크세미나] : 우아한 객체지향](#%ec%9a%b0%ec%95%84%ed%95%9c%ed%85%8c%ed%81%ac%ec%84%b8%eb%af%b8%eb%82%98--%ec%9a%b0%ec%95%84%ed%95%9c-%ea%b0%9d%ec%b2%b4%ec%a7%80%ed%96%a5)
+  - [[우아한테크세미나] : 우아한멀티모듈](#%ec%9a%b0%ec%95%84%ed%95%9c%ed%85%8c%ed%81%ac%ec%84%b8%eb%af%b8%eb%82%98--%ec%9a%b0%ec%95%84%ed%95%9c%eb%a9%80%ed%8b%b0%eb%aa%a8%eb%93%88)
 - [추천 도서](#%ec%b6%94%ec%b2%9c-%eb%8f%84%ec%84%9c)
   - [객체지향의 사실과 오해](#%ea%b0%9d%ec%b2%b4%ec%a7%80%ed%96%a5%ec%9d%98-%ec%82%ac%ec%8b%a4%ea%b3%bc-%ec%98%a4%ed%95%b4)
   - [클린 코드](#%ed%81%b4%eb%a6%b0-%ec%bd%94%eb%93%9c-1)
@@ -140,6 +140,10 @@
 * Spring Cloud Netflix에 대한 강의
 * 처음 MSA접하시는 분이 개념잡기에 좋음
 
+## [토크ON세미나] 쿠버네티스 살펴보기
+* [[Youtube] [무료] 강의](https://www.youtube.com/watch?v=WxzWXqTNdlw&list=PL9mhQYIlKEhdTu31zyb_QelQMaqFGgASA)
+* 쿠버네티스 영상 자료
+
 ## 스프링캠프 2018
 * [[Youtube] [무료] 강의](https://www.youtube.com/watch?v=YR_bZbQN79A&list=PLdHtZnJh1KdZnswQEyrn5VKxAXluSlWJc)
 * 2018 스프링 캠프는 MSA에 대한 주제가 많음
@@ -157,22 +161,18 @@
 * [[인프런] [무료] 강의](https://www.inflearn.com/course/command-line#)
 * 리눅그 기초적인 명령어 영상
 
-## 우아한테크세미나 : 우아한 객체지향
+## [우아한테크세미나] : 우아한 객체지향
 * [[Youtube] [무료] 세미나 영상](https://www.youtube.com/watch?v=dJ5C4qRqAgA)
 * 배민 주문 도메인 관련해서 객체지향적인 설계를 어떻게 해야 좋은지를 설명
 * 연관관계, 의존관계, 순한 패키지 구조 등 예쩨와 설명이 적절함
 * 뜬구름 잡는 이야기가 아닌 실무에서 정말 많이 고민 되는 부분들이라서 더 도움이 만이됨
 
-## [우아한테크세미나] :우아한멀티모듈
+## [우아한테크세미나] : 우아한멀티모듈
 * [[Youtube] [무료] 세미나 영상](https://www.youtube.com/watch?v=nH382BcycHc)
 * 현업에서 멀티모둘을 구성하는 노하우를 알려줌
 * 멀티 모듈 구성하면 common이 점점 괴물이 되어가는데, 모듈을 더 작은 책임을 갖도록 작은 단위로 구성하는 노하우 설명
 * `39:52` -> 모듈의 책임을 부여하는 순서도? 같은 부분이 모듈을 어떻게 나눌지 좋은 지표가 됨
 
-
-## [토크ON세미나] 쿠버네티스 살펴보기
-* [[Youtube] [무료] 강의](https://www.youtube.com/watch?v=WxzWXqTNdlw&list=PL9mhQYIlKEhdTu31zyb_QelQMaqFGgASA)
-* 쿠버네티스 영상 자료
 
 
 # 추천 도서
