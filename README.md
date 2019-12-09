@@ -49,6 +49,7 @@
   - [운영 체제와 정보 기술의 원리](#%ec%9a%b4%ec%98%81-%ec%b2%b4%ec%a0%9c%ec%99%80-%ec%a0%95%eb%b3%b4-%ea%b8%b0%ec%88%a0%ec%9d%98-%ec%9b%90%eb%a6%ac)
   - [클린 코더](#%ed%81%b4%eb%a6%b0-%ec%bd%94%eb%8d%94)
   - [스프링 마이크로서비스 코딩 공작소](#%ec%8a%a4%ed%94%84%eb%a7%81-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%bd%94%eb%94%a9-%ea%b3%b5%ec%9e%91%ec%86%8c)
+  - [스프링 부트와 AWS로 혼자 구현하는 웹서비스](#%ec%8a%a4%ed%94%84%eb%a7%81-%eb%b6%80%ed%8a%b8%ec%99%80-aws%eb%a1%9c-%ed%98%bc%ec%9e%90-%ea%b5%ac%ed%98%84%ed%95%98%eb%8a%94-%ec%9b%b9%ec%84%9c%eb%b9%84%ec%8a%a4)
 - [Github 계정 및 대표 Repository](#github-%ea%b3%84%ec%a0%95-%eb%b0%8f-%eb%8c%80%ed%91%9c-repository)
   - [jojoldu](#jojoldu)
   - [keesun](#keesun)
@@ -276,6 +277,11 @@
 * [도서](http://www.yes24.com/Product/Goods/67473377)
 * Spring Boot 2.0 버전의 Spring Cloud 예제 기반 (시중에 책들은 Spring Boot 1 버전대가 많아 다소 차이가 있음)
 * 전체적인 CI & CD 까지 넓게 다루고 있음
+
+## 스프링 부트와 AWS로 혼자 구현하는 웹서비스
+* [도서](https://freelec.co.kr/book/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8%EC%99%80-aws%EB%A1%9C-%ED%98%BC%EC%9E%90-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4/)
+* 인텔리제이에 대한 활용 방법
+* AWS 서버 환경 셋팅, 간단한 CI/CD, 무중단 서비스 방법 등 스프링 웹 서비스를 위한 다양한 방법들을 실무 수준에서 습득할 수 있음
 
 # Github 계정 및 대표 Repository
 
