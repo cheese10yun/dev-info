@@ -27,6 +27,7 @@
   - [클린 코드](#%ed%81%b4%eb%a6%b0-%ec%bd%94%eb%93%9c)
   - [OKKYCON: 2018 The Real TDD - TDD 제대로 알기](#okkycon-2018-the-real-tdd---tdd-%ec%a0%9c%eb%8c%80%eb%a1%9c-%ec%95%8c%ea%b8%b0)
   - [리눅스 커맨드라인 툴](#%eb%a6%ac%eb%88%85%ec%8a%a4-%ec%bb%a4%eb%a7%a8%eb%93%9c%eb%9d%bc%ec%9d%b8-%ed%88%b4)
+  - [IT 보안을 위한 ELK 통합로그시스템 구축과 활용](#it-%eb%b3%b4%ec%95%88%ec%9d%84-%ec%9c%84%ed%95%9c-elk-%ed%86%b5%ed%95%a9%eb%a1%9c%ea%b7%b8%ec%8b%9c%ec%8a%a4%ed%85%9c-%ea%b5%ac%ec%b6%95%ea%b3%bc-%ed%99%9c%ec%9a%a9)
   - [[우아한테크세미나] : 우아한 객체지향](#%ec%9a%b0%ec%95%84%ed%95%9c%ed%85%8c%ed%81%ac%ec%84%b8%eb%af%b8%eb%82%98--%ec%9a%b0%ec%95%84%ed%95%9c-%ea%b0%9d%ec%b2%b4%ec%a7%80%ed%96%a5)
   - [[우아한테크세미나] : 우아한멀티모듈](#%ec%9a%b0%ec%95%84%ed%95%9c%ed%85%8c%ed%81%ac%ec%84%b8%eb%af%b8%eb%82%98--%ec%9a%b0%ec%95%84%ed%95%9c%eb%a9%80%ed%8b%b0%eb%aa%a8%eb%93%88)
 - [추천 도서](#%ec%b6%94%ec%b2%9c-%eb%8f%84%ec%84%9c)
@@ -161,6 +162,10 @@
 ## 리눅스 커맨드라인 툴 
 * [[인프런] [무료] 강의](https://www.inflearn.com/course/command-line#)
 * 리눅그 기초적인 명령어 영상
+
+## IT 보안을 위한 ELK 통합로그시스템 구축과 활용
+* [[인프런] [유료] 강의](https://www.inflearn.com/course/ELK-%ED%86%B5%ED%95%A9%EB%A1%9C%EA%B7%B8%EC%8B%9C%EC%8A%A4%ED%85%9C-IT%EB%B3%B4%EC%95%88#)
+* 최신 버전 7.2 Elasticsearch, kibana, logstash에 대한 가이드
 
 ## [우아한테크세미나] : 우아한 객체지향
 * [[Youtube] [무료] 세미나 영상](https://www.youtube.com/watch?v=dJ5C4qRqAgA)
