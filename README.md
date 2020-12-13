@@ -300,6 +300,11 @@
 * 실제 구현 패턴 보다는 이론적인 설명 위주, DDD Start에서는 구현 패턴을 읽히고, 실제 이론은 해당 도서로 이해하는 것이 DDD를 처음 시작하는데 많은 도움이될거라 생각
 * 어렴풋이 알고있는 개념들을 체계적인 무장으로 정리 해줘서 DDD 입문자라면 읽어 보는것을 추천
 
+## 코틀린 리액티브 프로그래밍
+* [도서](http://kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791161752976&orderClick=LA6)
+* Rx Kotlin 기반의 사용법에 대한 것을 다룸
+* Kotlin 기반으로 프로젝트를 진행하고 있다면 Rx Java 보다 Rx Kotlin을 추천드림
+
 # Github 계정 및 대표 Repository
 
 ## jojoldu
