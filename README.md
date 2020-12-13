@@ -162,8 +162,8 @@
 * TDD를 처음 접하시는 분들은 **박재성님 - 의식적인 연습으로 TDD, 리팩토링 연습하기** 를 추천드립니다.
 
 ## 리눅스 커맨드라인 툴 
-* [[인프런] [무료] 강의](https://www.inflearn.com/course/command-line#)
-* 리눅그 기초적인 명령어 영상
+* [[인프런] [유료] 강의](https://www.inflearn.com/course/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%A4%EB%A7%A8%EB%93%9C%EB%9D%BC%EC%9D%B8-%ED%88%B4)
+* 리눅스 기초적인 명령어 영상
 
 ## IT 보안을 위한 ELK 통합로그시스템 구축과 활용
 * [[인프런] [유료] 강의](https://www.inflearn.com/course/ELK-%ED%86%B5%ED%95%A9%EB%A1%9C%EA%B7%B8%EC%8B%9C%EC%8A%A4%ED%85%9C-IT%EB%B3%B4%EC%95%88#)
@@ -172,8 +172,8 @@
 ## [우아한테크세미나] : 우아한 객체지향
 * [[Youtube] [무료] 세미나 영상](https://www.youtube.com/watch?v=dJ5C4qRqAgA)
 * 배민 주문 도메인 관련해서 객체지향적인 설계를 어떻게 해야 좋은지를 설명
-* 연관관계, 의존관계, 순한 패키지 구조 등 예쩨와 설명이 적절함
-* 뜬구름 잡는 이야기가 아닌 실무에서 정말 많이 고민 되는 부분들이라서 더 도움이 만이됨
+* 연관관계, 의존관계, 순한 패키지 구조 등 예제와 설명이 적절함
+* 뜬구름 잡는 이야기가 아닌 실무에서 정말 많이 고민 되는 부분들이라서 더 도움이 많이됨
 
 ## [우아한테크세미나] : 우아한멀티모듈
 * [[Youtube] [무료] 세미나 영상](https://www.youtube.com/watch?v=nH382BcycHc)
@@ -212,7 +212,7 @@
 ## 자바 ORM 표준 JPA 프로그래밍
 * [도서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960777330&orderClick=LAG&Kc=)
 * **실무에서 JPA를 사용하기 위해서 반드시 정독해야할 책 적극 추천**
-* 영속서 컨텍스트, 영속성 컨텍스트의 생명주기, IDENTITY 전략, 플러시 등 자세한 내용들이 자세하게 나와있음 
+* 영속성 컨텍스트, 영속성 컨텍스트의 생명주기, IDENTITY 전략, 플러시 등 자세한 내용들이 자세하게 나와있음 
 
 ## DDD Start
 * [도서](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788993827446&orderClick=JAj)
