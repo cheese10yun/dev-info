@@ -90,7 +90,7 @@
 * [[Yutube] [무료] 강의](https://www.youtube.com/channel/UCwjaZf1WggZdbczi36bWlBA)
 * [keesun](https://github.com/keesun)님의 개인방송
 * 스프링의 다양한 부분을 다루는 방송
-* **스프링 부트 2.0 레퍼렌스 적극 추천**
+* **스프링 부트 2.0 레퍼런스 적극 추천**
 
 ## HTTPS와 SSL 인증서
 * [[생활코딩] [무료] 강의](https://opentutorials.org/course/228/4894)
@@ -128,7 +128,7 @@
 ## Learn Spring Security: The Master Class
 * [[Baeldung] [유료] 강의](https://courses.baeldung.com/p/learn-spring-security-the-master-class)
 * 영어 강의 이긴 하지만 PDF 자료 및 영상에 대한 영어 자막을 재공해 주어서 듣기에는 크게 지장이 없습니다.(저는 가끔 영어 자막을 한글 자막으로 크롬 번역기로 들었는데 크게 이해하는데 어렵지 않았습니다.)
-* 우선 스프링 Security에 대한 자료들 중에서 체계적이고 최신화되 있는 강의가 있지 않아 스프링 Security공부를 하고싶은 분에게는 추천드립니다. 만약 국내에 Security 관련 다른 강의가 있다면 그것을 듣는 것도 추천드립니다. 가격에 비해서 강의 퀄리티는 그렇게 높지 않습니다.
+* 우선 스프링 Security에 대한 자료들 중에서 체계적이고 최신화되어있는 강의가 있지 않아 스프링 Security공부를 하고싶은 분에게는 추천드립니다. 만약 국내에 Security 관련 다른 강의가 있다면 그것을 듣는 것도 추천드립니다. 가격에 비해서 강의 퀄리티는 그렇게 높지 않습니다.
 * 스프링 Security 기초부터 JWT, OAuth2까지 전반적으로 다룹니다. 기술의 깊이는 그렇게 깊지 않습니다.
 
 ## [토크ON세미나] JPA 프로그래밍 기본기 다지기
@@ -172,7 +172,7 @@
 * [[Youtube] [무료] 세미나 영상](https://www.youtube.com/watch?v=dJ5C4qRqAgA)
 * 배민 주문 도메인 관련해서 객체지향적인 설계를 어떻게 해야 좋은지를 설명
 * 연관관계, 의존관계, 순한 패키지 구조 등 예제와 설명이 적절함
-* 뜬구름 잡는 이야기가 아닌 실무에서 정말 많이 고민 되는 부분들이라서 더 도움이 많이됨
+* 뜬구름 잡는 이야기가 아닌 실무에서 정말 많이 고민되는 부분들이라서 더 도움이 많이 됨
 
 ## [우아한테크세미나] : 우아한멀티모듈
 * [[Youtube] [무료] 세미나 영상](https://www.youtube.com/watch?v=nH382BcycHc)
@@ -232,7 +232,7 @@
 
 ## OAuth 2.0 쿡북 
 * [도서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161752211&orderClick=LAH&Kc=)
-* Spring OAuth2부분만 설명 하는 책
+* Spring OAuth2 부분만 설명 하는 책
 * Sprong OAuth2 관련 자료는 많지만 이렇게 체계적으로 정리한 자료는 없기 때문에 Sprong OAuth2 학습 하시는 분에게 추천
 * 책에 퀄리티가 엄청 좋다고 할 수는 없지만 국내에 Sprong OAuth2를 다루는 책 자체가 거의 없기 때문에....
 
@@ -244,7 +244,7 @@
 ## 스프링 5.0 마스터
 * [도서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161751825&orderClick=LAG&Kc=)
 * 스프링 전체적인 내용을 다루면서 내용을 깊이있게 다룸
-* 의존성 주입에 대한 근본적인 이유, 스프링 핵심 철학, 스프링의 내부매커니즘, 스프링 활용 팁, 스프링 테스트 전략에 대해서 짧고 굵게 다룸
+* 의존성 주입에 대한 근본적인 이유, 스프링 핵심 철학, 스프링의 내부 메커니즘, 스프링 활용 팁, 스프링 테스트 전략에 대해서 짧고 굵게 다룸
 * **이론과 실무 모두를 만족시키는 최근 스프링 관련 최고의 책이라고 생각함**
 
 ## 피플웨어
@@ -255,7 +255,7 @@
 
 ## 함께자라기 - 애자일
 * [도서](http://www.yes24.com/Product/Goods/67350256?scode=032&OzSrank=1)
-* 애자일에 대한 내용보다는 개인, 팀, 팀원으로써 좋은 커뉴니케이션, 피드백, 성장(개인, 팀)등에 대한 많은 이야기를 함
+* 애자일에 대한 내용보다는 개인, 팀, 팀원으로써 좋은 커뮤니케이션, 피드백, 성장(개인, 팀)등에 대한 많은 이야기를 함
 
 ## MySQL 5.7 완벽 분석
 * [도서](http://www.yes24.com/Product/Goods/72270172)
@@ -274,7 +274,7 @@
 ## 운영 체제와 정보 기술의 원리
 * [도서](http://www.yes24.com/Product/Goods/2824944)
 * 운영체제 기초 이론 설명이 잘되어 있음
-* 컴퓨터 시트템 동작 원리, 인터셉터 원리, 프로세스 관리 등 기초적인 운영체지 지식들을 간단하게 알려줌
+* 컴퓨터 시스템 동작 원리, 인터셉터 원리, 프로세스 관리 등 기초적인 운영체지 지식들을 간단하게 알려줌
 * 깊은 내용은 아니지만 **개발자들이 알아야하는 최소한의 내용들이 있어 저극 추천!!**
 
 ## 클린 코더
@@ -301,8 +301,8 @@
 
 ## 코틀린 리액티브 프로그래밍
 * [도서](http://kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791161752976&orderClick=LA6)
-* Rx Kotlin 기반의 사용법에 대한 것을 다룸
-* Kotlin 기반으로 프로젝트를 진행하고 있다면 Rx Java 보다 Rx Kotlin을 추천드림
+* RxKotlin 기반의 사용법에 대한 것을 다룸
+* Kotlin 기반으로 프로젝트를 진행하고 있다면 RxJava 보다 RxKotlin을 추천드림
 
 ## Real MySQL
 * [도서](http://www.yes24.com/Product/Goods/6960931)
