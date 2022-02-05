@@ -309,6 +309,7 @@
 
 ## Real MySQL
 * [도서](http://www.yes24.com/Product/Goods/6960931)
+* [Real MySQL 8.0 (1권)](http://www.yes24.com/Product/Goods/103415627), [Real MySQL 8.0 (2권)](http://www.yes24.com/Product/Goods/103415767) 계정판을 권장
 * MySQL를 주로 사용한다면 반드시 읽어야할 책
 * 이 이책에서 중요하개 봐야할 점
   * InnoDB 스토리지 엔진의 Undo 로그, Redo 로그, MVCC의 트랜잭션 처리 방식
