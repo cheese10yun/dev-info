@@ -78,10 +78,11 @@
 * NodeJs Rest API TDD 코드 작성 방법
 * 테스트 코드 경험없는 입문자에게 적극 추천
 
-## 스프링 프레임워크 입문
+## 스프링 프레임워크 입문 (기존 수강자만 수강 가능)
 * [[유데미] [유료] 강의](https://www.udemy.com/zakmvzfj/)
 * 2시간 이내의 스프링 핵심 개념을 정리
 * 스프링 입문하기 전에 보면 좋은 강의
+* 이전에 강의를 신청하였을 경우에 한해서 수강가능
 
 ## Clean Code, SOLID 강의
 * [[Yutube] [무료] 강의](https://www.youtube.com/user/codetemplate/videos)
