@@ -156,7 +156,7 @@
 
 ## 클린 코드
 * [[Youtube] [무료] 강의](https://www.youtube.com/watch?v=ybRg282RECs)
-* 도서 클린 코드에 대한 풀이 강의근ㄷ
+* 도서 클린 코드에 대한 풀이 강의
 
 ## OKKYCON: 2018  The Real TDD - TDD 제대로 알기
 * [[OKKY] [무료] 커펀런스 영상](https://okky.kr/article/538114)
