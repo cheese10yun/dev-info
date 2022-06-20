@@ -18,7 +18,7 @@
   - [백기선의 스프링 프레임워크 핵심 기술](#백기선의-스프링-프레임워크-핵심-기술)
   - [백기선의 스프링 기반 REST API 개발](#백기선의-스프링-기반-rest-api-개발)
   - [백기선의 스프링 웹 MVC](#백기선의-스프링-웹-mvc)
-  - [컴퓨터 공학 올인올 패키지](#컴퓨터-공학-올인올-패키지)
+  - ~~[컴퓨터 공학 올인올 패키지](#컴퓨터-공학-올인올-패키지)~~ (강의 없어짐)
   - [Learn Spring Security: The Master Class](#learn-spring-security-the-master-class)
   - [[토크ON세미나] JPA 프로그래밍 기본기 다지기](#토크on세미나-jpa-프로그래밍-기본기-다지기)
   - [[토크ON세미나] Spring Cloud를 활용한 MSA 기초](#토크on세미나-spring-cloud를-활용한-msa-기초)
@@ -78,10 +78,11 @@
 * NodeJs Rest API TDD 코드 작성 방법
 * 테스트 코드 경험없는 입문자에게 적극 추천
 
-## 스프링 프레임워크 입문
+## 스프링 프레임워크 입문 (기존 수강자만 수강 가능)
 * [[유데미] [유료] 강의](https://www.udemy.com/zakmvzfj/)
 * 2시간 이내의 스프링 핵심 개념을 정리
 * 스프링 입문하기 전에 보면 좋은 강의
+* 이전에 강의를 신청하였을 경우에 한해서 수강가능
 
 ## Clean Code, SOLID 강의
 * [[Yutube] [무료] 강의](https://www.youtube.com/user/codetemplate/videos)
@@ -122,11 +123,11 @@
 * [[인프런] [유료] 강의](https://www.inflearn.com/course/%EC%9B%B9-mvc/)
 * 믿고 듣는 기선님 강의
 
-## 컴퓨터 공학 올인올 패키지
-* [[패스트캠퍼스] [유료] 강의](https://www.fastcampus.co.kr/dev_online_cs/)
-* 컴퓨터 구조 & 논리설계, 시스템 프로그래밍, 운영체제, 자료구조, WEB 에대한 기초 강의
-* 위 항목중 하나라도 듣고 싶다면 결제 해서 듣는 것을 추천
-* 컴퓨터 공학 기초는 정말 중요 실무 경력자라도 반드시 한번 다시 듣는것이 좋음
+## ~~컴퓨터 공학 올인올 패키지~~ (강의 없어짐)
+* ~~[[패스트캠퍼스] [유료] 강의](https://www.fastcampus.co.kr/dev_online_cs/)~~
+* ~~컴퓨터 구조 & 논리설계, 시스템 프로그래밍, 운영체제, 자료구조, WEB 에대한 기초 강의~~
+* ~~위 항목중 하나라도 듣고 싶다면 결제 해서 듣는 것을 추천~~
+* ~~컴퓨터 공학 기초는 정말 중요 실무 경력자라도 반드시 한번 다시 듣는것이 좋음~~
 
 ## Learn Spring Security: The Master Class
 * [[Baeldung] [유료] 강의](https://courses.baeldung.com/p/learn-spring-security-the-master-class)
